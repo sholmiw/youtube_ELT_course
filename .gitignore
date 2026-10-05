@@ -1,0 +1,5 @@
+    .venv/
+    venv/
+    __pycach__/
+    .env
+    logs/
